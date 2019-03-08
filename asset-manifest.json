@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.7082105d.css",
   "main.css.map": "static/css/main.7082105d.css.map",
-  "main.js": "static/js/main.6e4a8ff0.js",
-  "main.js.map": "static/js/main.6e4a8ff0.js.map",
+  "main.js": "static/js/main.53b3608b.js",
+  "main.js.map": "static/js/main.53b3608b.js.map",
   "static\\media\\DYNOGRAPH.JPG": "static/media/DYNOGRAPH.6e147be9.JPG",
   "static\\media\\airm.JPG": "static/media/airm.58fbc64e.JPG",
   "static\\media\\arv.JPG": "static/media/arv.93b80150.JPG",
@@ -12,6 +12,7 @@
   "static\\media\\manif.JPG": "static/media/manif.306474c5.JPG",
   "static\\media\\map.JPG": "static/media/map.6c322315.JPG",
   "static\\media\\pwm.JPG": "static/media/pwm.3782d074.JPG",
+  "static\\media\\rmupd.JPG": "static/media/rmupd.56cfe26a.JPG",
   "static\\media\\tsl.JPG": "static/media/tsl.4bf9c058.JPG",
   "static\\media\\turbo.JPG": "static/media/turbo.ebeb6f7f.JPG",
   "static\\media\\twg.JPG": "static/media/twg.3f9c7271.JPG",
